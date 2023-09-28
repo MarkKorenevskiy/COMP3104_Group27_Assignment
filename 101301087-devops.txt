@@ -14,3 +14,8 @@ the core principles of DevOps, which include collaboration,
 automation, and a focus on continuous improvement. They explore
 the cultural aspects of DevOps, emphasizing teamwork, communication,
 and a shared responsibility for software delivery.
+
+2. Version Control: Version control systems like Git are essential
+tools in DevOps. Students learn how to use these systems to track
+changes in code, collaborate with team members, and manage code
+repositories effectively.
