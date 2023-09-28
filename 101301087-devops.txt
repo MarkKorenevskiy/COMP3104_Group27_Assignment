@@ -6,3 +6,11 @@ collaboration, automation, and continuous improvement to enhance
 the efficiency and effectiveness of software development and
 delivery processes. Here's a general overview of what you can
 expect from a DevOps course at a college:
+
+Course Content:
+
+1. DevOps Principles and Culture: Students start by understanding
+the core principles of DevOps, which include collaboration,
+automation, and a focus on continuous improvement. They explore
+the cultural aspects of DevOps, emphasizing teamwork, communication,
+and a shared responsibility for software delivery.
