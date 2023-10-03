@@ -1,0 +1,30 @@
+COMP3104 DevOps
+
+Why DevOps adoption?
+DevOps culture brings the cohesion of autonomous teams to fast
+paced, high-demanding environments.
+It has a set of processes that when applied correctly can:
+1. Drastically reduce IT overhead
+2. Remove manual tasks both of a mundane or complex nature
+3. Enforce best security practices
+4. Expedite product delivery
+5. Improve communication and collaboration across teams
+
+DevOps is a new term emerging from the collision of two
+major related trends. The first was also called “agile
+infrastructure” or “agile operations”; it sprang from
+applying Agile and Lean approaches to operations work.
+
+• DevOps is “a cross-disciplinary community of practice
+dedicated to the study of building, evolving and operating
+rapidly-changing resilient systems at scale.” - Jez Humble
+
+• DevOps is a combination of software development and
+information technology operations that enables
+businesses to deliver applications at a faster pace. It
+brings together development and operations teams so
+there are fewer redundancies in the software
+development process.
+
+
+
